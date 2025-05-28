@@ -1,3 +1,8 @@
+<div style="width: 100%;">
+  <img src="name.svg" style="width: 100%;" alt="Click to see the code">
+</div>
+
+
 # 💫 About Me:
 I recently graduated with a Master's in Computer Science from NYU.
 I care about building AI systems that actually help people.🌸🍀
